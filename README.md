@@ -6,9 +6,9 @@ Replace physical warranties and have block chain based warranties using NFT whic
 
 ## Demo
 
-Front End - [NA]()
+Front End - [NFT Warrenty](nftwarranty.netlify.app/)
 
-Smart Contract Address - [NA]()
+Smart Contract Address - [0x86E7D252314f1ab35a0712d5871E27015FcdB4a0](https://goerli.etherscan.io/address/0x86E7D252314f1ab35a0712d5871E27015FcdB4a0)
 
 ## Components
 
