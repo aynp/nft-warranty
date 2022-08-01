@@ -1,4 +1,4 @@
-# NFT Warrenty
+# NFT Warranty
 
 > eCommerce warranty system using NFTs
 
@@ -6,19 +6,19 @@ Replace physical warranties and have block chain based warranties using NFT whic
 
 ## Demo
 
-Front End - [NFT Warrenty](nftwarranty.netlify.app/)
+Front End - [NFT Warranty](nftwarranty.netlify.app/)
 
 Smart Contract Address - [0x86E7D252314f1ab35a0712d5871E27015FcdB4a0](https://goerli.etherscan.io/address/0x86E7D252314f1ab35a0712d5871E27015FcdB4a0)
 
 ## Components
 
-### [nft-warrenty-client](https://github.com/aynp/nft-warrenty-client)
+### [nft-warranty-client](https://github.com/aynp/nft-warranty-client)
 
-Client part of nft-warrenty
+Client part of nft-warranty
 
-### [nft-warrenty-smartcontract](https://github.com/aynp/nft-warrenty-smartcontract)
+### [nft-warranty-smartcontract](https://github.com/aynp/nft-warranty-smartcontract)
 
-Smart Contract for nft-warrenty
+Smart Contract for nft-warranty
 
 ## Authors
 
